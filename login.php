@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['user_name'] = $user['first_name'] . ' ' . $user['last_name'];
 
             echo "<script type='text/javascript'>
-                    window.location.href = 'my-account.php';
+                    window.location.href = './my-account.php';
                   </script>";
             exit;
         } else {

@@ -179,7 +179,7 @@ include 'dbconnect.php';
                             </ul>
                         </div>
                         <div class="team-info">
-                            <h4>Azaan Khan</h4>
+                            <h4>Azan Khan</h4>
                             <p>Staff</p>
                         </div>
                     </div>
@@ -202,7 +202,7 @@ include 'dbconnect.php';
                             </ul>
                         </div>
                         <div class="team-info">
-                            <h4>Taha Junaid</h4>
+                            <h4>Hamdan Khan</h4>
                             <p>Staff</p>
                         </div>
                     </div>
@@ -225,7 +225,7 @@ include 'dbconnect.php';
                             </ul>
                         </div>
                         <div class="team-info">
-                            <h4>Muneeb Fahad</h4>
+                            <h4>Bilal Waris</h4>
                             <p>Staff</p>
                         </div>
                     </div>
